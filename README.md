@@ -1,9 +1,15 @@
 # 👋 Olá, eu sou o Francisco Alecrim Tamberi  
 
 💻 **Analista de Suporte Sênior** em transição para **Desenvolvedor Web Júnior**  
-📊 Experiência em **SQL, análise de dados e análise de processos**  
-🌱 Atualmente estudando **PHP, JavaScript e Bootstrap**  
-⚡ Apaixonado por resolver problemas e criar soluções úteis  
+📊 Experiência em **SQL, análise de dados e automação de processos**  
+🌱 Atualmente **aprendendo PHP, JavaScript, Jquery, Bootstrap e Docker. Me aprimorando com banco de dados MySQL**  
+⚡ Estou em evolução contínua, buscando conhecimento e experiência prática  
+❗ Quero deixar claro: ainda estou aprendendo, mas compartilho tudo que construo  
+
+---
+
+## 🎓 Formação Acadêmica
+- 🎓 **Graduação em Banco de Dados** – FAM (Faculdade das Américas)
 
 ---
 
@@ -17,8 +23,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
 ---
 
 ## 🌐 Onde me encontrar
@@ -26,4 +30,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-tamberi)  
 
 ---
-✨ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor!
+
+✨ Compartilho meus aprendizados, projetos e evolução.  
+🔍 Em busca de experiência prática para chegar ao nível Júnior em Desenvolvimento Web.
