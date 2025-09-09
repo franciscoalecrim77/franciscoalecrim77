@@ -29,7 +29,7 @@
 - 🌎 [Site pessoal](https://franciscotamberi.com.br)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-tamberi)  
 - 📧 Email: francisco_crim@hotmail.com  
-- 📞 Telefone: +55 (11) 99394-9191
+- 📞 Contato (WhatsApp): +55 (11) 99394-9191
 
 ---
 
